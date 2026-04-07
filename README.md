@@ -68,14 +68,17 @@ Healthcare organizations require real-time visibility into:
 
 ###  KPI Overview Dashboard
 ![KPI](assets/KPI.png)
+
 Provides a high-level view of healthcare KPIs including patient volume, visits, and operational performance.
 
 ###  Patient Trends Over Time
 ![Trends](assets/Trends.png)
+
 Displays time-series trends in patient visits and treatment patterns.
 
 ### 🔹 Interactive Filtering
 ![Filters](assets/Filters.png)
+
 Allows stakeholders to explore data dynamically by time, department, and patient segments.
 
 ---
